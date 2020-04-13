@@ -7,5 +7,5 @@ SilverSorter is an algorithm to sort the given input data to a final known form 
 ### Cloning
 Use the link below to close this repository to your machine.
 ```
-https://github.com/Severus11/Virtual-Air-Painting.git
+https://github.com/Severus11/SIlverSorter.git
 ```
